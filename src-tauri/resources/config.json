@@ -1,0 +1,46 @@
+{
+    "theme": {
+        "current-theme": "auto",
+        "target-theme": {
+            "auto": "跟随系统主题",
+            "light": "浅色主题",
+            "dark": "深色主题"
+        }
+    },
+    "err-msg": {
+        "no-first-step": "请先从网身开始绘制，否则将无法锁定网身与其余部分的相对坐标。",
+        "no-v1-value": "缺失目大参数，请填写后再设计下一段。",
+        "no-v2-value": "缺失纵向目数，请填写后再设计下一段。",
+        "no-v3-value": "缺失横向目数，请填写后再设计下一段。",
+        "no-todo-step": "已回到历史最新步骤，无法继续前进下一步。",
+        "no-redo-part-step":"已撤销到局部绘图历史最远步骤，如需继续撤销，请使用全局撤销。",
+        "no-redo-step":"已撤销到全局绘图历史最远步骤，无法继续撤销到上一步。",
+        "no-cur-net-type":"该类型拖网无法绘制",
+        "err-operation":"操作失败类型无法确认",
+        "err-net-type": "拖网类型无法确认",
+        "err-clean-operation":"清空模型空间操作失败类型无法确认",
+        "err-clean-msp":"无法正常清空模型空间",
+        "set-default-ori-pos": "未设置原点坐标，默认使用0，0为原点。"
+
+    },
+    "core-config": {
+        "SCALE_RATIO": 0.01,
+        "TABLE_OFFSET": 100,
+        "HORIZONTAL_SCALE_BAR": 0.5,
+        "VERTICAL_SCALE_BAR": 1.0,
+        "WORD_HEIGHT": 3.5,
+        "FORM_WORD_HEIGHT": 7,
+        "ANNOTATED_OFFSETS": 2,
+        "MATERIAL":"PA6"
+    },
+    "__default__.core-config": {
+        "SCALE_RATIO": 0.01,
+        "TABLE_OFFSET": 100,
+        "HORIZONTAL_SCALE_BAR": 0.5,
+        "VERTICAL_SCALE_BAR": 1.0,
+        "WORD_HEIGHT": 3.5,
+        "FORM_WORD_HEIGHT": 7,
+        "ANNOTATED_OFFSETS": 2,
+        "MATERIAL":"PA6"
+    }
+}

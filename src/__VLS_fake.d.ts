@@ -1,0 +1,1 @@
+// This is a fake declaration file to avoid Volar errors.

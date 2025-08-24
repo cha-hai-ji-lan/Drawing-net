@@ -1,0 +1,6 @@
+<svg width="50" height="170" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="45,163 5,163 45,3"
+           fill="rgba(255, 201, 14, 0.4)"
+           stroke="rgba(255, 201, 14, 0.9)"
+           stroke-width="3"/>
+</svg>
